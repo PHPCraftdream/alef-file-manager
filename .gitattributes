@@ -1,0 +1,2 @@
+# the manifest is spliced and compared as text; a CRLF checkout must not change it
+*.ktav text eol=lf
